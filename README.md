@@ -12,7 +12,7 @@
 🔭 **Currently working on:** Robotic Toe + Ankle project (wearable exoskeleton for space)  
 🌱 **Learning:** VLSI, Detection Theory, Raspberry Pi Vision  
 📫 **Reach me at:** ramkushal.b@iiitb.ac.in  
-⚡ **Fun fact:** I automate everything I can 😄
+⚡ **Fun fact:** I automate tasks that take 2 minutes and spend 2 hours doing it
 
 ---
 
