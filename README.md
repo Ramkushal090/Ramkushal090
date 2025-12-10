@@ -18,10 +18,9 @@
 
 ## Connect with me
 
-<a href="[your-linkedin-url](https://www.linkedin.com/in/ramkushal-bachhu-883480367/)">
+<a href="https://www.linkedin.com/in/ramkushal-bachhu-883480367/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45px"/>
 </a>
-
 &nbsp;&nbsp;
 
 ---
