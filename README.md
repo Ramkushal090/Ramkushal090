@@ -1,5 +1,4 @@
 <div align="center">
-
 # Hi 👋, I'm Ramkushal  
 ### A passionate engineer exploring **Robotics, Electronics, Signal Processing, and AI**
 
