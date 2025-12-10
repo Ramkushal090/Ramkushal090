@@ -38,7 +38,11 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/>
+
+<!-- Quartus -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Altera_logo.svg" width="60"/>
+
+<!-- Vivado -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Xilinx_logo.svg" width="60"/>
 
 </div>
